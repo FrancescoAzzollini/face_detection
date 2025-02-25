@@ -1,3 +1,3 @@
 # face_detection
 
-A deep learning model for face detection built following the example of Nicholas Renotte on YouTube
+A deep learning model for face detection built following the Nicholas Renotte YouTube tutorial
